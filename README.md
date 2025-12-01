@@ -269,6 +269,6 @@ Full-Stack Developer | Options Trader
 </p>
 
 ---
-# ⭐ **If you found this project interesting, please consider giving it a star!**
+# ⭐ **If you found this project interesting, consider giving it a star!**
 
-# ⭐ **If you found this project interesting, please consider giving it a star!**
+
