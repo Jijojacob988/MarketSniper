@@ -1,0 +1,23 @@
+/* Import Google Font (Outfit) */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/* Import Tailwind */
+@import "tailwindcss";
+
+/* Global styles */
+body {
+  background-color: #0f0f10;  /* Dark background */
+  color: white;
+  font-family: 'Outfit', sans-serif; /* Use Outfit font */
+  margin: 0;
+  padding: 0;
+}
+
+/* Optional: scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 6px;
+}
